@@ -1,2 +1,4 @@
 print("Sobek")
+
+
 print("skoček")
